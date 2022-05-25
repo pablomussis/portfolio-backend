@@ -1,10 +1,10 @@
-package com.firebase.portfolio.portfoliobackend;
+package app.web.portfoliofrontendpablomussis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PortfolioBackendApplicationTests {
+class PortfolioFrontendPablomussisApplicationTests {
 
 	@Test
 	void contextLoads() {
